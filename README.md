@@ -4,6 +4,8 @@
 
 **狀態：已發布（2026-10-11）。** 公開 repo：https://github.com/lushinshang/andrew-ng-wdr-2026-ai-for-development　線上閱讀：https://lushinshang.github.io/andrew-ng-wdr-2026-ai-for-development/
 
+本機資料夾是製作現場（含 `research/`、`qa/`、影片檔、PNG 原檔，均不公開）；公開 repo 只含 `index.html`、導讀 Markdown、WebP 圖、README、分享文。
+
 ## 200字介紹
 
 Andrew Ng 與 Susan Athey 在世界銀行《World Development Report 2026》場合的 46 分鐘對談，談 AI 對開發中國家的意義。Ng 認為開放權重模型讓資源不多的國家也能擁有、調整、不被斷供；聊天機器人擅長把事情做完，卻不擅長讓人學會，教學要從一對多走向一對一；AI 在可驗證任務上進步很快，需要判斷的任務差距可能更大；工作拆成任務後，被自動化的部分變便宜，剩下需要人的部分更值錢。導讀把 Ng 的看法與一手資料分開標示，並對照 OpenAI 與 Hugging Face 事件的官方報告。
@@ -14,10 +16,10 @@ Andrew Ng 與 Susan Athey 在世界銀行《World Development Report 2026》場�
 |---|---|
 | `andrew-ng-wdr-2026-ai-for-development.md` | 正式導讀 Markdown |
 | `index.html` | 獨立網頁，可直接雙擊開啟；CSS／JS 內嵌，圖片為相對路徑，不依賴外部函式庫 |
-| `images/web/` | 網頁用 WebP：4 組導讀示意圖，每組 16:9＋9:16；另有社群預覽圖 `og_1200x630.png` |
+| `images/web/` | 網頁用 WebP：置頂總覽圖 `hero`（16:9＋9:16）與 4 組導讀示意圖（每組 16:9＋9:16）；另有 LINE／社群預覽圖 `og_1200x630.jpg` |
 | `share_post.md` | 社群分享文 |
 
-圖片說明：4 組圖為導讀者依對談內容整理繪製的示意圖，不是對談現場投影片；圖中比例（「約三到四成」「約六成」）是 Ng 的口頭舉例，不是統計數字。
+圖片說明：置頂總覽圖與 4 組圖為導讀者依對談內容整理繪製的示意圖，不是對談現場投影片；圖中比例（「約三到四成」「約六成」）是 Ng 的口頭舉例，不是統計數字。
 
 ## 原始資料
 
